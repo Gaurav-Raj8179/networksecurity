@@ -1,0 +1,19 @@
+[2026-10-10 12:12:31,901 ] 19 root - INFO -Initiate the data ingestion
+[2026-10-10 12:12:31,905 ] 21 root - INFO -Entered the data ingestion method
+[2026-10-10 12:12:32,676 ] 43 root - INFO -Data ingestion completed
+[2026-10-10 12:12:32,678 ] 21 root - INFO -Data Initiation Complete
+[2026-10-10 12:12:32,734 ] 26 root - INFO -Initiate the data validation
+[2026-10-10 12:12:32,845 ] 32 root - INFO -Required number of columns:2
+[2026-10-10 12:12:32,845 ] 33 root - INFO -Data frame has columns:31
+[2026-10-10 12:12:32,845 ] 32 root - INFO -Required number of columns:2
+[2026-10-10 12:12:32,845 ] 33 root - INFO -Data frame has columns:31
+[2026-10-10 12:12:33,114 ] 29 root - INFO -data validation complete
+[2026-10-10 12:12:33,115 ] 34 root - INFO -data Transformation completed
+[2026-10-10 12:12:33,115 ] 51 root - INFO -Entered initiate_data_transformation method of DataTransformation class
+[2026-10-10 12:12:33,115 ] 53 root - INFO -starting data transformation
+[2026-10-10 12:12:33,381 ] 39 root - INFO -Entered get_data_transformer_object method of Transformation class
+[2026-10-10 12:12:33,381 ] 44 root - INFO -initialise KNNImputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[2026-10-10 12:12:33,745 ] 47 root - INFO -Entered the save_object method of MainUtils class
+[2026-10-10 12:12:33,751 ] 53 root - INFO -Exited the save_object method of MainUtils class
+[2026-10-10 12:12:33,753 ] 38 root - INFO -data Transformation completed
+[2026-10-10 12:12:33,753 ] 40 root - INFO -model training started

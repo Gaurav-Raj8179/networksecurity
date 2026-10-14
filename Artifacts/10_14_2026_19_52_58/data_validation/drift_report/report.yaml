@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 1.0
+DNSRecord:
+  drift_status: false
+  p_value: 0.9999993831997822
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9999062353866229
+Favicon:
+  drift_status: false
+  p_value: 0.9563660841655501
+Google_Index:
+  drift_status: false
+  p_value: 0.4965219237945278
+HTTPS_token:
+  drift_status: false
+  p_value: 1.0
+Iframe:
+  drift_status: false
+  p_value: 0.9086653866244705
+Links_in_tags:
+  drift_status: false
+  p_value: 0.793456747140991
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.3911770137386811
+Page_Rank:
+  drift_status: false
+  p_value: 1.0
+Prefix_Suffix:
+  drift_status: false
+  p_value: 1.0
+Redirect:
+  drift_status: false
+  p_value: 0.9844261985874094
+Request_URL:
+  drift_status: false
+  p_value: 1.0
+Result:
+  drift_status: false
+  p_value: 1.0
+RightClick:
+  drift_status: false
+  p_value: 0.9999999977781104
+SFH:
+  drift_status: false
+  p_value: 0.9763752606358573
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.9903208205295254
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9999999999876384
+Statistical_report:
+  drift_status: false
+  p_value: 0.5654537636267017
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.9597114153770513
+URL_Length:
+  drift_status: false
+  p_value: 0.9860900857001905
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.9993864328065777
+age_of_domain:
+  drift_status: false
+  p_value: 0.9999836499887566
+double_slash_redirecting:
+  drift_status: false
+  p_value: 1.0
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.9999999947754254
+having_IP_Address:
+  drift_status: false
+  p_value: 1.0
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.6049845433946239
+on_mouseover:
+  drift_status: false
+  p_value: 0.8685540728180071
+popUpWidnow:
+  drift_status: false
+  p_value: 0.98068847421368
+port:
+  drift_status: false
+  p_value: 0.8807137057443575
+web_traffic:
+  drift_status: false
+  p_value: 0.9999998099738984

@@ -1,0 +1,23 @@
+[2026-10-11 00:37:01,630 ] 19 root - INFO -Initiate the data ingestion
+[2026-10-11 00:37:01,630 ] 21 root - INFO -Entered the data ingestion method
+[2026-10-11 00:37:06,703 ] 43 root - INFO -Data ingestion completed
+[2026-10-11 00:37:06,704 ] 21 root - INFO -Data Initiation Complete
+[2026-10-11 00:37:06,777 ] 26 root - INFO -Initiate the data validation
+[2026-10-11 00:37:08,018 ] 32 root - INFO -Required number of columns:2
+[2026-10-11 00:37:08,018 ] 33 root - INFO -Data frame has columns:31
+[2026-10-11 00:37:08,018 ] 32 root - INFO -Required number of columns:2
+[2026-10-11 00:37:08,018 ] 33 root - INFO -Data frame has columns:31
+[2026-10-11 00:37:08,960 ] 29 root - INFO -data validation complete
+[2026-10-11 00:37:09,005 ] 34 root - INFO -data Transformation completed
+[2026-10-11 00:37:09,005 ] 51 root - INFO -Entered initiate_data_transformation method of DataTransformation class
+[2026-10-11 00:37:09,005 ] 53 root - INFO -starting data transformation
+[2026-10-11 00:37:10,799 ] 39 root - INFO -Entered get_data_transformer_object method of Transformation class
+[2026-10-11 00:37:10,799 ] 44 root - INFO -initialise KNNImputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[2026-10-11 00:37:12,765 ] 47 root - INFO -Entered the save_object method of MainUtils class
+[2026-10-11 00:37:12,769 ] 53 root - INFO -Exited the save_object method of MainUtils class
+[2026-10-11 00:37:12,771 ] 38 root - INFO -data Transformation completed
+[2026-10-11 00:37:12,771 ] 40 root - INFO -model training started
+[2026-10-11 00:48:37,643 ] 47 root - INFO -Entered the save_object method of MainUtils class
+[2026-10-11 00:48:38,466 ] 53 root - INFO -Exited the save_object method of MainUtils class
+[2026-10-11 00:48:38,467 ] 123 root - INFO -Model trainer artifact: ModelTrainerArtifact(trained_model_file_path='Artifacts\\10_11_2026_00_36_25\\model_trainer\\model.pkl', train_metric_artifact=ClassificationMetricArtifact(f1_score=0.9921639541892706, precision_score=0.9899759422614274, recall_score=0.9943616592831253), test_metric_artifact=ClassificationMetricArtifact(f1_score=0.9716193656093489, precision_score=0.9659751037344398, recall_score=0.9773299748110831))
+[2026-10-11 00:48:38,537 ] 45 root - INFO -model training artifact created
